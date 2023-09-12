@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Effortless color palettes with K-Means magic. Perfect for artists, designers, and decorators. Unleash your inner color maestro today! 🌈🪄 
+  Effortless color palettes with Median-cut magic. Perfect for artists, designers, and decorators. Unleash your inner color maestro today! 🌈🪄 
 <p>
 
 
